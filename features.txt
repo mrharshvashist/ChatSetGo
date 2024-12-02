@@ -1,0 +1,3 @@
+swipe left to "edit, star"
+double click to "copy"
+click to chat up and chat down by down arrow;
